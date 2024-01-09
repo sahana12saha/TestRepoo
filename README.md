@@ -122,7 +122,7 @@ Please follow these simple steps:
       smoothThreshold="5"
     >
       <a-entity
-        gltf-model="your-server/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"
+        gltf-model="https://sahana12saha.github.io/Test/Robo.gltf"
         scale="5 5 5"
         position="150 300 -100"
       >
